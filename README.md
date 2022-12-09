@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @omodata
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on phyton
+- 📫 How to reach me https://www.linkedin.com/in/olotu-omotayo
